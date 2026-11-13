@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Coors",
+    "logo": "img/brands/coors.webp",
+    "w": 246,
+    "h": 92
+  },
+  {
+    "name": "Adidas",
+    "logo": "img/brands/adidas.webp",
+    "w": 184,
+    "h": 124
+  },
+  {
+    "name": "Nintendo",
+    "logo": "img/brands/nintendo.webp",
+    "w": 290,
+    "h": 65
+  },
+  {
+    "name": "Toyota",
+    "logo": "img/brands/toyota.webp",
+    "w": 185,
+    "h": 120
+  },
+  {
+    "name": "Nike",
+    "logo": "img/brands/nike.webp",
+    "w": 276,
+    "h": 99
+  },
+  {
+    "name": "Microsoft",
+    "logo": "img/brands/microsoft.webp",
+    "w": 282,
+    "h": 61
+  },
+  {
+    "name": "NBC",
+    "logo": "img/brands/nbc.webp",
+    "w": 226,
+    "h": 134
+  },
+  {
+    "name": "Canon",
+    "logo": "img/brands/canon.webp",
+    "w": 272,
+    "h": 58
+  },
+  {
+    "name": "Lionsgate",
+    "logo": "img/brands/lionsgate.webp",
+    "w": 360,
+    "h": 44
+  },
+  {
+    "name": "Target",
+    "logo": "img/brands/target.webp",
+    "w": 150,
+    "h": 150
+  },
+  {
+    "name": "Coca-Cola",
+    "logo": "img/brands/coca-cola.webp",
+    "w": 286,
+    "h": 94
+  },
+  {
+    "name": "Showtime",
+    "logo": "img/brands/showtime.webp",
+    "w": 350,
+    "h": 126
+  },
+  {
+    "name": "Apple",
+    "logo": "img/brands/apple.webp",
+    "w": 128,
+    "h": 150
+  },
+  {
+    "name": "Netflix",
+    "logo": "img/brands/netflix.webp",
+    "w": 240,
+    "h": 66
+  },
+  {
+    "name": "Jeep",
+    "logo": "img/brands/jeep.webp",
+    "w": 238,
+    "h": 97
+  },
+  {
+    "name": "McDonald’s",
+    "logo": "img/brands/mcdonalds.webp",
+    "w": 173,
+    "h": 150
+  },
+  {
+    "name": "Allstate",
+    "logo": "img/brands/allstate.webp",
+    "w": 264,
+    "h": 139
+  },
+  {
+    "name": "Cheez-It",
+    "logo": "img/brands/cheez-it.webp",
+    "w": 262,
+    "h": 85
+  },
+  {
+    "name": "Chevrolet",
+    "logo": "img/brands/chevrolet.webp",
+    "w": 231,
+    "h": 82
+  },
+  {
+    "name": "Domino’s",
+    "logo": "img/brands/dominos.webp",
+    "w": 150,
+    "h": 150
+  },
+  {
+    "name": "Dairy Queen",
+    "logo": "img/brands/dairy-queen.webp",
+    "w": 184,
+    "h": 120
+  },
+  {
+    "name": "Dunkin’",
+    "logo": "img/brands/dunkin.webp",
+    "w": 299,
+    "h": 112
+  },
+  {
+    "name": "Grainger",
+    "logo": "img/brands/grainger.webp",
+    "w": 267,
+    "h": 62
+  },
+  {
+    "name": "HP",
+    "logo": "img/brands/hp.webp",
+    "w": 131,
+    "h": 131
+  },
+  {
+    "name": "LG",
+    "logo": "img/brands/lg.webp",
+    "w": 224,
+    "h": 99
+  },
+  {
+    "name": "Metro by T-Mobile",
+    "logo": "img/brands/metro-by-t-mobile.webp",
+    "w": 224,
+    "h": 85
+  },
+  {
+    "name": "Ripple",
+    "logo": "img/brands/ripple.webp",
+    "w": 231,
+    "h": 84
+  },
+  {
+    "name": "Sentry",
+    "logo": "img/brands/sentry.webp",
+    "w": 267,
+    "h": 101
+  },
+  {
+    "name": "State Farm",
+    "logo": "img/brands/state-farm.webp",
+    "w": 259,
+    "h": 105
+  }
+]

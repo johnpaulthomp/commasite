@@ -1,0 +1,171 @@
+{
+  "latest": [
+    {
+      "title": "Off to War",
+      "id": 12601544,
+      "cover": "img/albums/off-to-war.webp"
+    },
+    {
+      "title": "Acoustic Interludes",
+      "id": 12607259,
+      "cover": "img/albums/acoustic-interludes.webp"
+    },
+    {
+      "title": "Rallying Cries & Triumphs",
+      "id": 12600336,
+      "cover": "img/albums/rallying-cries-and-triumphs.webp"
+    },
+    {
+      "title": "The Clock Is Ticking",
+      "id": 12141200,
+      "cover": "img/albums/the-clock-is-ticking.webp"
+    },
+    {
+      "title": "Girl Pop",
+      "id": 12141199,
+      "cover": "img/albums/girl-pop.webp"
+    },
+    {
+      "title": "Jazz Guitar Strut",
+      "id": 11733536,
+      "cover": "img/albums/jazz-guitar-strut.webp"
+    },
+    {
+      "title": "A Tree Hollow",
+      "id": 11733533,
+      "cover": "img/albums/a-tree-hollow.webp"
+    },
+    {
+      "title": "Nu Disco",
+      "id": 11733506,
+      "cover": "img/albums/nu-disco.webp"
+    },
+    {
+      "title": "Fast Blast Bebop",
+      "id": 11733534,
+      "cover": "img/albums/fast-blast-bebop.webp"
+    },
+    {
+      "title": "Fire & Frontier",
+      "id": 11733507,
+      "cover": "img/albums/fire-and-frontier.webp"
+    },
+    {
+      "title": "Welcome to Hip Hop Country",
+      "id": 11319017,
+      "cover": "img/albums/welcome-to-hip-hop-country.webp"
+    },
+    {
+      "title": "Retro Revival Vol. 2",
+      "id": 11319016,
+      "cover": "img/albums/retro-revival-vol-2.webp"
+    },
+    {
+      "title": "Upbeat Baroque",
+      "id": 11319013,
+      "cover": "img/albums/upbeat-baroque.webp"
+    },
+    {
+      "title": "Swingin’ Christmas Party",
+      "id": 11319015,
+      "cover": "img/albums/swingin-christmas-party.webp"
+    },
+    {
+      "title": "Secret Santa",
+      "id": 11319014,
+      "cover": "img/albums/secret-santa.webp"
+    },
+    {
+      "title": "Uncanny Choir Cues",
+      "id": 11021544,
+      "cover": "img/albums/uncanny-choir-cues.webp"
+    },
+    {
+      "title": "Roads to Victory",
+      "id": 11021541,
+      "cover": "img/albums/roads-to-victory.webp"
+    },
+    {
+      "title": "Cafe Jazz",
+      "id": 11021541,
+      "cover": "img/albums/cafe-jazz.webp"
+    },
+    {
+      "title": "Medieval Melodies",
+      "id": 11021545,
+      "cover": "img/albums/medieval-melodies.webp"
+    },
+    {
+      "title": "Interior Lowlands",
+      "id": 11021542,
+      "cover": "img/albums/interior-lowlands.webp"
+    },
+    {
+      "title": "The Apple and the Tree",
+      "id": 10553828,
+      "cover": "img/albums/the-apple-and-the-tree.webp"
+    }
+  ],
+  "featured": [
+    {
+      "title": "Bittersweet Piano & Orchestra",
+      "id": 9795985,
+      "cover": "img/albums/bittersweet-piano-and-orchestra.webp"
+    },
+    {
+      "title": "Tense Atmospheres",
+      "id": 9715379,
+      "cover": "img/albums/tense-atmospheres.webp"
+    },
+    {
+      "title": "Tropical",
+      "id": 9794834,
+      "cover": "img/albums/tropical.webp"
+    },
+    {
+      "title": "Groove Legacy",
+      "id": 9677977,
+      "cover": "img/albums/groove-legacy.webp"
+    },
+    {
+      "title": "Pump Up the Pop",
+      "id": 9744558,
+      "cover": "img/albums/pump-up-the-pop.webp"
+    },
+    {
+      "title": "Latin Dance Fever",
+      "id": 9715368,
+      "cover": "img/albums/latin-dance-fever.webp"
+    },
+    {
+      "title": "Midcentury Jazz",
+      "id": 9796009,
+      "cover": "img/albums/midcentury-jazz.webp"
+    },
+    {
+      "title": "Roots Rock",
+      "id": 9678031,
+      "cover": "img/albums/roots-rock.webp"
+    },
+    {
+      "title": "Indie Dreams",
+      "id": 9747743,
+      "cover": "img/albums/indie-dreams.webp"
+    },
+    {
+      "title": "Electric Nightlife",
+      "id": 9744570,
+      "cover": "img/albums/electric-nightlife.webp"
+    },
+    {
+      "title": "Retro Revival",
+      "id": 9744590,
+      "cover": "img/albums/retro-revival.webp"
+    },
+    {
+      "title": "High Drama",
+      "id": 9744573,
+      "cover": "img/albums/high-drama.webp"
+    }
+  ]
+}

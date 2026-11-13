@@ -1,0 +1,7 @@
+{
+  "catalogUrl": "https://catalog.commamusic.com",
+  "albumUrlPattern": "https://catalog.commamusic.com/album/{id}",
+  "contactEmail": "info@commamusic.com",
+  "briefUrl": "https://www.411musicgroup.com/",
+  "submissionsUrl": "mailto:info@commamusic.com?subject=Music%20submission"
+}

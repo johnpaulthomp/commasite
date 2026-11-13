@@ -1,0 +1,308 @@
+[
+  {
+    "name": "411 Music Group",
+    "url": "https://www.411musicgroup.com/",
+    "territories": "United States, Canada",
+    "countries": [
+      "United States of America",
+      "Canada"
+    ]
+  },
+  {
+    "name": "Adrenalin Sounds",
+    "url": "https://www.adrenalinsounds.com/home",
+    "territories": "Australia, New Zealand, Fiji",
+    "countries": [
+      "Australia",
+      "New Zealand",
+      "Fiji"
+    ]
+  },
+  {
+    "name": "All Stars Music",
+    "url": "https://www.allstarsmusic.net/",
+    "territories": "Algeria, Bahrain, Egypt, Iran, Iraq, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Qatar, Saudi Arabia, Syria, Tunisia, Türkiye, United Arab Emirates, Palestine, Yemen, Sudan",
+    "countries": [
+      "Algeria",
+      "Egypt",
+      "Iran",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "Syria",
+      "Tunisia",
+      "Turkey",
+      "United Arab Emirates",
+      "Palestine",
+      "Yemen",
+      "Sudan"
+    ]
+  },
+  {
+    "name": "Apollo Media",
+    "url": "https://apollomedia.pro/",
+    "territories": "Azerbaijan, Armenia, Belarus, Kazakhstan, Kyrgyzstan, Georgia, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine, Uzbekistan",
+    "countries": [
+      "Azerbaijan",
+      "Armenia",
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Georgia",
+      "Moldova",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ]
+  },
+  {
+    "name": "B Sharp Music",
+    "url": "https://bsharpmusicproduction.com/",
+    "territories": "Brunei, Cambodia, Hong Kong, Indonesia, Laos, Macau, Malaysia, Myanmar, the Philippines, Singapore, Timor-Leste",
+    "countries": [
+      "Brunei",
+      "Cambodia",
+      "Indonesia",
+      "Laos",
+      "Malaysia",
+      "Myanmar",
+      "Philippines",
+      "Timor-Leste"
+    ]
+  },
+  {
+    "name": "Blue Island",
+    "url": "https://blueisland.ro/",
+    "territories": "Romania",
+    "countries": [
+      "Romania"
+    ]
+  },
+  {
+    "name": "CTM",
+    "url": "https://ctm.nl/",
+    "territories": "Belgium, Luxembourg, The Netherlands",
+    "countries": [
+      "Belgium",
+      "Luxembourg",
+      "Netherlands"
+    ]
+  },
+  {
+    "name": "EMVN",
+    "url": "https://license.emvn.co/",
+    "territories": "Thailand, Vietnam",
+    "countries": [
+      "Thailand",
+      "Vietnam"
+    ]
+  },
+  {
+    "name": "Flipper Music",
+    "url": "https://www.flippermusic.it/",
+    "territories": "Italy",
+    "countries": [
+      "Italy"
+    ]
+  },
+  {
+    "name": "FreshTracks Nordics",
+    "url": "https://freshtracks.dk/",
+    "territories": "Denmark, Finland, Norway, Sweden",
+    "countries": [
+      "Denmark",
+      "Finland",
+      "Norway",
+      "Sweden"
+    ],
+    "links": [
+      {
+        "label": "Denmark",
+        "url": "https://freshtracks.dk/"
+      },
+      {
+        "label": "Finland",
+        "url": "https://freshtracks.fi/"
+      },
+      {
+        "label": "Norway",
+        "url": "https://freshtracks.no/"
+      },
+      {
+        "label": "Sweden",
+        "url": "https://freshtracks.se/"
+      }
+    ]
+  },
+  {
+    "name": "FreshTracks UK",
+    "url": "https://freshtracksmusic.co.uk/",
+    "territories": "United Kingdom, Ireland",
+    "countries": [
+      "United Kingdom",
+      "Ireland"
+    ]
+  },
+  {
+    "name": "Latin Music Publishing",
+    "url": "https://www.musicdirectorla.com/",
+    "territories": "Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Uruguay, Venezuela",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Dominican Rep.",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "name": "Media Cube",
+    "url": "http://www.mediacube.co.kr/",
+    "territories": "Korea",
+    "countries": [
+      "South Korea"
+    ]
+  },
+  {
+    "name": "Miles of Music",
+    "url": "https://milesofmusik.com/",
+    "territories": "Israel",
+    "countries": [
+      "Israel"
+    ]
+  },
+  {
+    "name": "Miooz",
+    "url": "https://www.miooz.com/",
+    "territories": "France, Mayotte, Guadeloupe, French Guiana, Réunion, Martinique, New Caledonia, French Polynesia, Saint-Pierre and Miquelon, French Southern and Antarctic Lands, Wallis and Futuna, Andorra, Monaco",
+    "countries": [
+      "France",
+      "New Caledonia",
+      "Fr. S. Antarctic Lands"
+    ]
+  },
+  {
+    "name": "Nichion",
+    "url": "https://www.ncslibrary.nichion.co.jp/",
+    "territories": "Japan",
+    "countries": [
+      "Japan"
+    ]
+  },
+  {
+    "name": "Point Culture",
+    "url": "https://www.pointmusic.com.tw/",
+    "territories": "Taiwan",
+    "countries": [
+      "Taiwan"
+    ]
+  },
+  {
+    "name": "Rightbox",
+    "url": "https://freshtracks.de/",
+    "territories": "Austria, Germany, Switzerland",
+    "countries": [
+      "Austria",
+      "Germany",
+      "Switzerland"
+    ]
+  },
+  {
+    "name": "Schubert Music Group",
+    "url": "https://schubertmusic.com/",
+    "territories": "Bulgaria, Poland",
+    "countries": [
+      "Bulgaria",
+      "Poland"
+    ]
+  },
+  {
+    "name": "Songba",
+    "url": "http://www.songbamusic.com/",
+    "territories": "China",
+    "countries": [
+      "China"
+    ]
+  },
+  {
+    "name": "Studio Fontana",
+    "url": "https://hudebnibanka.cz/",
+    "territories": "Croatia, Czechia, Hungary, Slovakia, Slovenia",
+    "countries": [
+      "Croatia",
+      "Czechia",
+      "Hungary",
+      "Slovakia",
+      "Slovenia"
+    ],
+    "links": [
+      {
+        "label": "Croatia",
+        "url": "https://glazbenabanka.hr/"
+      },
+      {
+        "label": "Czechia",
+        "url": "https://hudebnibanka.cz/"
+      },
+      {
+        "label": "Hungary",
+        "url": "https://zenebank.hu/"
+      },
+      {
+        "label": "Slovakia",
+        "url": "https://hudobnabanka.sk/"
+      },
+      {
+        "label": "Slovenia",
+        "url": "https://glasbenabanka.si/"
+      }
+    ]
+  },
+  {
+    "name": "Sync Mama",
+    "url": "https://syncmama.com/",
+    "territories": "India",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "name": "Vimúsica",
+    "url": "https://vimusica.com/",
+    "territories": "Portugal, Spain",
+    "countries": [
+      "Portugal",
+      "Spain"
+    ]
+  },
+  {
+    "name": "Yellowgroove",
+    "url": "https://www.yellowgroove.tv/",
+    "territories": "Greece",
+    "countries": [
+      "Greece"
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "brand": "Serta",
+    "title": "“Comforters”",
+    "category": "library",
+    "label": "Library",
+    "image": "img/placements/serta-comforters.webp"
+  },
+  {
+    "brand": "Rocket Mortgage",
+    "title": "“Dreamhouse”",
+    "category": "original",
+    "label": "Original & library",
+    "image": "img/placements/rocket-mortgage-dreamhouse.webp"
+  },
+  {
+    "brand": "Rocket Mortgage",
+    "title": "“Comfortable”",
+    "category": "original",
+    "label": "Original & library",
+    "image": "img/placements/rocket-mortgage-comfortable.webp"
+  },
+  {
+    "brand": "Jersey Mike’s",
+    "title": "“Rhythm of the Slice”",
+    "category": "sync",
+    "label": "Re-record & re-lyric",
+    "image": "img/placements/jersey-mikes-rhythm-of-the-slice.webp"
+  },
+  {
+    "brand": "Peacock",
+    "title": "Long Bright River",
+    "category": "library",
+    "label": "Library",
+    "image": "img/placements/peacock-long-bright-river.webp"
+  },
+  {
+    "brand": "Jim Beam",
+    "title": "“Sweet Caroline”",
+    "category": "sync",
+    "label": "Sync & re-record",
+    "image": "img/placements/jim-beam-sweet-caroline.webp"
+  },
+  {
+    "brand": "Jeep",
+    "title": "“Made for What You’re Made Of”",
+    "category": "library",
+    "label": "Library",
+    "image": "img/placements/jeep-made-for-what-youre-made-of.webp"
+  },
+  {
+    "brand": "NHL",
+    "title": "“Hand Off”",
+    "category": "sync",
+    "label": "Sync & re-record",
+    "image": "img/placements/nhl-hand-off.webp"
+  },
+  {
+    "brand": "SyFy / USA Network",
+    "title": "Resident Alien",
+    "category": "library",
+    "label": "Library",
+    "image": "img/placements/syfy-usa-network-resident-alien.webp"
+  },
+  {
+    "brand": "BetMGM",
+    "title": "“You Never Know When”",
+    "category": "library",
+    "label": "Library",
+    "image": "img/placements/betmgm-you-never-know-when.webp"
+  },
+  {
+    "brand": "Reese’s",
+    "title": "“Devices Are Listening”",
+    "category": "library",
+    "label": "Library",
+    "image": "img/placements/reeses-devices-are-listening.webp"
+  },
+  {
+    "brand": "Nintendo",
+    "title": "Kirby and the Forgotten Land",
+    "category": "library",
+    "label": "Library",
+    "image": "img/placements/nintendo-kirby-and-the-forgotten-land.webp"
+  },
+  {
+    "brand": "Olive Garden",
+    "title": "“More for Less”",
+    "category": "library",
+    "label": "Library",
+    "image": "img/placements/olive-garden-more-for-less.webp"
+  },
+  {
+    "brand": "Beneful",
+    "title": "“Full Life: IncrediBites”",
+    "category": "library",
+    "label": "Library",
+    "image": "img/placements/beneful-full-life-incredibites.webp"
+  },
+  {
+    "brand": "Boar’s Head",
+    "title": "“Crafting an Ode”",
+    "category": "library",
+    "label": "Library",
+    "image": "img/placements/boars-head-crafting-an-ode.webp"
+  },
+  {
+    "brand": "Sentry",
+    "title": "“Right by You”",
+    "category": "library",
+    "label": "Library",
+    "image": "img/placements/sentry-right-by-you.webp"
+  }
+]

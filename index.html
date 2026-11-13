@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Comma | Production Music Label</title>
+<meta name="description" content="Browse our boutique production music library, with one-stop licensing on all of our tracks, written by top composers.">
+<link rel="canonical" href="https://www.commamusic.com/">
+<meta name="google-site-verification" content="hzqPW_qG-AKK4_lpxO4gxIM0lHnh0Fnx-0ciTCV7__0">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Comma">
+<meta property="og:title" content="Comma | Production Music Label">
+<meta property="og:description" content="Browse our boutique production music library, with one-stop licensing on all of our tracks, written by top composers.">
+<meta property="og:url" content="https://www.commamusic.com/">
+<meta property="og:image" content="https://www.commamusic.com/img/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@comma_music">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#ffffff">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="img/favicon.png">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo+Narrow:wght@500;600;700&family=Fira+Sans:wght@300;400;500&family=Open+Sans:wght@400&display=swap">
+<link rel="stylesheet" href="css/site.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Comma Music and Sound Design, Inc.","url":"https://www.commamusic.com/","logo":"https://www.commamusic.com/img/favicon.png","email":"info@commamusic.com","telephone":"+1-312-642-5117","address":{"@type":"PostalAddress","streetAddress":"2045 W Grand Ave Ste B, PMB 99023","addressLocality":"Chicago","addressRegion":"IL","postalCode":"60612","addressCountry":"US"},"sameAs":["https://www.instagram.com/commamusic/","https://www.youtube.com/channel/UCCL-kKv0fUwqyfzXv1fH4Ig/","https://www.linkedin.com/company/commamusic","https://www.facebook.com/commamusicandsound","https://open.spotify.com/artist/0gksnzfD5LslcejTbO01sO"]}</script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="Comma home">
+      <img class="logo-dark" src="img/logo-dark.png" alt="Comma" width="693" height="96">
+      <img class="logo-light" src="img/logo-light.png" alt="Comma" width="693" height="96">
+    </a>
+    <nav class="nav" aria-label="Main">
+      <a href="#music">Music</a>
+      <a href="#placements">Placements</a>
+      <a href="#partners">Partners</a>
+      <a href="#contact">Contact</a>
+      <a class="btn btn--solid btn--sm" data-link="catalog" href="https://catalog.commamusic.com">Browse catalog</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section id="top" class="hero on-night" aria-labelledby="hero-title">
+    <img class="hero__poster" src="video/hero-poster.jpg" alt="" aria-hidden="true">
+    <video class="hero__video" id="hero-video" autoplay muted loop playsinline preload="auto" poster="video/hero-poster.jpg" aria-hidden="true">
+      <source src="video/hero-loop.mp4" type="video/mp4">
+    </video>
+    <div class="hero__shade" aria-hidden="true"></div>
+    <div class="wrap hero__inner">
+      <div class="hero__copy">
+        <h1 id="hero-title">Music that elevates.</h1>
+        <p class="hero__sub">Thousands of top-shelf tracks and one-stop licensing for film, TV, advertising and more.</p>
+        <div class="hero__actions">
+          <a class="btn btn--accent" data-link="catalog" href="https://catalog.commamusic.com">Browse the catalog</a>
+          <a class="btn btn--ghost-light" href="#contact">Get in touch</a>
+        </div>
+      </div>
+      <button type="button" class="reel-btn" id="reel-open" aria-haspopup="dialog">
+        <span class="reel-btn__disc" aria-hidden="true"><svg width="38" height="38" viewBox="0 0 24 24"><path d="M8 5v14l11-7z" fill="#101010"/></svg></span>
+        <span class="reel-btn__label">Watch the reel</span>
+      </button>
+    </div>
+    <button type="button" class="motion-toggle" id="motion-toggle" aria-pressed="false">Pause background video</button>
+  </section>
+
+  <dialog class="reel-dialog" id="reel-dialog" aria-label="Comma reel">
+    <div class="reel-dialog__bar">
+      <button type="button" class="reel-dialog__close" id="reel-close" aria-label="Close reel">
+        <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5L5 19" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+    <video id="reel-video" controls playsinline preload="none" poster="video/hero-poster.jpg" width="1920" height="800">
+      <source src="video/reel.mp4" type="video/mp4">
+    </video>
+  </dialog>
+
+  <section id="music" class="section" aria-labelledby="music-title">
+    <div class="wrap">
+      <div class="section__head">
+        <h2 class="h2" id="music-title">New &amp; featured albums</h2>
+        <div class="tabs" role="tablist" aria-label="Albums">
+          <button type="button" role="tab" id="tab-latest" aria-selected="true" aria-controls="album-grid" data-tab="latest">Latest releases</button>
+          <button type="button" role="tab" id="tab-featured" aria-selected="false" aria-controls="album-grid" data-tab="featured" tabindex="-1">Featured</button>
+        </div>
+      </div>
+      <ul class="album-grid" id="album-grid" role="tabpanel" aria-labelledby="tab-latest"></ul>
+      <a class="wavy" data-link="catalog" href="https://catalog.commamusic.com">See all albums</a>
+    </div>
+  </section>
+
+  <section id="placements" class="section section--tint" aria-labelledby="placements-title">
+    <div class="wrap">
+      <div class="section__head">
+        <div class="section__intro">
+          <h2 class="h2" id="placements-title">Recent placements</h2>
+          <p style="max-width: 46ch">A selection of recent work from hundreds of placements across advertising, film, TV and games.</p>
+        </div>
+        <div class="chips" role="group" aria-label="Filter placements" id="placement-filters">
+          <button type="button" aria-pressed="true" data-filter="all">All</button>
+          <button type="button" aria-pressed="false" data-filter="library">Library</button>
+          <button type="button" aria-pressed="false" data-filter="original">Original</button>
+          <button type="button" aria-pressed="false" data-filter="sync">Sync &amp; re-record</button>
+        </div>
+      </div>
+      <ul class="placement-grid" id="placement-grid" aria-live="polite"></ul>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="brands-title">
+    <div class="wrap">
+      <h2 class="brands__title" id="brands-title">Trusted by brands and networks</h2>
+      <ul class="brand-grid" id="brand-grid"></ul>
+    </div>
+  </section>
+
+  <section id="contact" class="section section--tint" aria-labelledby="contact-title">
+    <div class="wrap">
+      <div class="ask">
+        <h2 class="h2" id="contact-title">Have any questions?</h2>
+        <div class="ask__col">
+          <p class="lede">Whether it’s about a track, a placement, or working with Comma, we’re happy to help.</p>
+          <a class="btn btn--solid" data-link="email" href="mailto:info@commamusic.com">info@commamusic.com</a>
+        </div>
+        <div class="ask__col">
+          <p class="small">Have a brief or need a license? Our partners at 411 Music Group handle searches and licensing for the Comma catalog.</p>
+          <a class="wavy" data-link="brief" href="https://www.411musicgroup.com/">Send a brief to 411</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="partners" class="section" aria-labelledby="partners-title">
+    <div class="wrap">
+      <div class="section__head">
+        <div class="section__intro">
+          <h2 class="h2" id="partners-title">Providing music globally</h2>
+          <p class="lede">For licensing in these territories, get in touch with one of our sub-publishers. Hover the map or pick a partner.</p>
+        </div>
+      </div>
+      <div class="partners">
+        <div class="partners__map">
+          <div class="map-frame">
+            <svg id="world-map" viewBox="0 0 960 470" role="img" aria-label="World map of Comma sub-publisher territories"></svg>
+          </div>
+          <div class="partner-card on-night" id="partner-card" aria-live="polite"></div>
+        </div>
+        <ul class="partner-list" id="partner-list" aria-label="Sub-publishers"></ul>
+      </div>
+      <noscript><p class="noscript-note">Turn on JavaScript to see albums, placements and the partner map.</p></noscript>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer on-night">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div class="footer-col footer-col--brand">
+        <img src="img/logo-light.png" alt="Comma" width="693" height="96">
+        <p>Comma Music and Sound Design, Inc.<br>2045 W Grand Ave Ste B, PMB 99023<br>Chicago, Illinois 60612</p>
+      </div>
+      <div class="footer-col">
+        <h2 class="footer-head">Contact</h2>
+        <a href="tel:+13126425117">(312) 642-5117</a>
+        <a data-link="email" href="mailto:info@commamusic.com">info@commamusic.com</a>
+      </div>
+      <div class="footer-col">
+        <h2 class="footer-head">Follow</h2>
+        <a href="https://www.instagram.com/commamusic/">Instagram</a>
+        <a href="https://www.youtube.com/channel/UCCL-kKv0fUwqyfzXv1fH4Ig/">YouTube</a>
+        <a href="https://www.linkedin.com/company/commamusic">LinkedIn</a>
+        <a href="https://www.facebook.com/commamusicandsound">Facebook</a>
+        <a href="https://open.spotify.com/artist/0gksnzfD5LslcejTbO01sO">Spotify</a>
+      </div>
+      <div class="submit-panel">
+        <h2 class="footer-head">Bands / Artists / Composers</h2>
+        <a class="btn btn--accent btn--sm" data-link="submissions" href="mailto:info@commamusic.com?subject=Music%20submission">Submit your music</a>
+      </div>
+    </div>
+    <p class="legal">© <span id="year">2026</span> Comma Music and Sound Design, Inc. All rights reserved. All logos and trademarks not held by Comma are held by their respective companies.</p>
+  </div>
+</footer>
+
+<script src="js/site.js" defer></script>
+</body>
+</html>
