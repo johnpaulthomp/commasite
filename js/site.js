@@ -116,7 +116,10 @@
       card.innerHTML = "";
       var actions = el("div", { "class": "partner-card__links" });
       (p.links || [{ label: "Visit " + p.name, url: p.url }]).forEach(function (l) {
-        actions.appendChild(el("a", { "class": "btn btn--accent btn--sm", href: l.url, text: l.label }));
+        var link = el("a", { "class": "btn btn--accent btn--sm", href: l.url, target: "_blank", rel: "noopener" });
+link.appendChild(document.createTextNode(l.label));
+link.appendChild(el("span", { "class": "visually-hidden", text: " (opens in a new tab)" }));
+actions.appendChild(link);
       });
       card.appendChild(el("div", { "class": "partner-card__text" }, [
         el("span", { "class": "partner-card__name", text: p.name }),
