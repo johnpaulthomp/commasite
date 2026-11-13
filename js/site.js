@@ -157,7 +157,7 @@ actions.appendChild(link);
     function setPaused(paused) {
       if (paused) video.pause(); else video.play().catch(function () {});
       toggle.setAttribute("aria-pressed", paused ? "true" : "false");
-      toggle.textContent = paused ? "Play background video" : "Pause background video";
+      toggle.setAttribute("aria-label", paused ? "Play background video" : "Pause background video");
     }
     if (reduce) { video.removeAttribute("autoplay"); setPaused(true); }
     toggle.addEventListener("click", function () { setPaused(!video.paused); });
